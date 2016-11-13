@@ -26,37 +26,47 @@ There are few of materials to us how to install Dlib on your PC with Qt and Ming
 
 - **decomposition the Dlib file**
 
-  ![50,70](1.jpg)
+   ![1](E:\github\Cypress.github.io\images\1.jpg)
 
 - **using cmake **
 
-   1th: Browse the source file and **mkdir** a build file![](2016-11-12_175007.jpg)
+   1th: Browse the source file and **mkdir** a build file
+
+   ![2016-11-12_175007](E:\github\Cypress.github.io\images\2016-11-12_175007.jpg)
 
   2th:press **Configure** button, choose the MinGW Makefiles.
 
-  ![](2016-11-12_175027.jpg)
+   ![2016-11-12_175027](E:\github\Cypress.github.io\images\2016-11-12_175027.jpg)
 
   3th:
 
-  ![](2016-11-12_175052.jpg)
+   ![2016-11-12_175052](E:\github\Cypress.github.io\images\2016-11-12_175052.jpg)
+
+  ### and again!!!
+
+   ![2016-11-12_175111](E:\github\Cypress.github.io\images\2016-11-12_175111.jpg)
 
   4th:click **Generate** button
 
-  ![](2016-11-12_175124.jpg)
+   ![2016-11-12_175124](E:\github\Cypress.github.io\images\2016-11-12_175124.jpg)
 
 - mingw32-make
 
-  ![](2016-11-12_191059.jpg)
+   ![2016-11-12_191059](E:\github\Cypress.github.io\images\2016-11-12_191059.jpg)
 
-  ![](2016-11-12_191134.jpg)
+   ![2016-11-12_191134](E:\github\Cypress.github.io\images\2016-11-12_191134.jpg)
+
+  ​
 
   waiting...
 
-  ![](2016-11-12_192020.jpg)
+   ![2016-11-12_192020](E:\github\Cypress.github.io\images\2016-11-12_192020.jpg)
+
+  ​
 
 - Qt create a new project
 
--  the file of .pro should looks like that:  (It also should include opencv library for what the demo is needed)
+  the file of .pro should looks like that:  (It also should include opencv library for what the demo is needed)
 
   ```.Pro file
   QT += core
@@ -107,7 +117,6 @@ There are few of materials to us how to install Dlib on your PC with Qt and Ming
   LIBS+=-lgdi32
   LIBS+=-lwinmm
   LIBS += -lws2_32
-
   ```
 
   ​
@@ -218,7 +227,7 @@ projestname.exe shape_predictor_68_face_landmarks.dat
 
 that's it!
 
-![](2016-11-12_193259.jpg)
+ ![2016-11-12_193259](E:\github\Cypress.github.io\images\2016-11-12_193259.jpg)
 
 
 
