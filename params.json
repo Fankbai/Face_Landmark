@@ -1,0 +1,6 @@
+{
+  "name": "Face_LandMark",
+  "tagline": "Install Dlib on PC with Qt and MingW",
+  "body": "#README\r\n\r\n In Install Dlib on PC with Qt and MingW.md article, I will show you guys how to install Dlib (C++ library) on your PC, using QT and MingW compiler. Before start, you should download Dlib, Qt, cmake and MingW( Qt has already been included).\r\n\r\n\r\n\r\nI will load video on youtube  once I complete the processing. \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
