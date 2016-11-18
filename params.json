@@ -1,6 +1,6 @@
 {
-  "name": "Face_LandMark",
+  "name": "Face LandMark Detection",
   "tagline": "Install Dlib on PC with Qt and MingW",
-  "body": "#README\r\n\r\n In Install Dlib on PC with Qt and MingW.md article, I will show you guys how to install Dlib (C++ library) on your PC, using QT and MingW compiler. Before start, you should download Dlib, Qt, cmake and MingW( Qt has already been included).\r\n\r\n\r\n\r\nI will load video on youtube  once I complete the processing. \r\n",
+  "body": "# Install Dlib on PC with Qt and MingW\r\n\r\n##Face LandMark Detection\r\n##note\r\nsee me at Youtube\r\n\r\nhttps://www.youtube.com/watch?v=qC2U0-SAasU\r\n\r\nhttps://www.youtube.com/watch?v=wg5g5bQMNbA\r\n\r\n##file:\r\n\r\n- Dlib_test.pro\r\n- Install Dlib on PC and Qt and MingW.md\r\n- main.cpp\r\n- ...\r\n\r\n##introduction\r\n\r\n In this article, I will show you guys how to install Dlib (C++ library) on your PC, using QT and MingW compiler. Before start, you should download Dlib, Qt, cmake and MingW( Qt has already been included).\r\n\r\nif you have advices, please email me\r\n\r\nmr.baishu@gmail.com\r\n\r\n\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
