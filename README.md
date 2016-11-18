@@ -1,5 +1,11 @@
 # Cypress.github.io
 
+see me at Youtube
+
+https://www.youtube.com/watch?v=qC2U0-SAasU
+
+https://www.youtube.com/watch?v=wg5g5bQMNbA
+
 ## file:
 
 -  Dlib_test.pro
@@ -18,6 +24,7 @@
 
 if you have advices, please email me
 
-mr.cypress@gmail.com
+mr.baishu@gmail.com
 
-​:luck:​​:luck:​​:luck:​​:luck:​​:luck:​​:luck:​​:luck:​​:luck:​​:luck:​​:luck:​​:luck:​​:luck:​BEST WISHES​:luck:​​:luck:​​:luck:​​:luck:​​:luck:​​:luck:​​:luck:​​:luck:​​:luck:​​:luck:​​:luck:​​:luck:​​:luck:​​:luck:​​:luck:​​:luck:​
+
+

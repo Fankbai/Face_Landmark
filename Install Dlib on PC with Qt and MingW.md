@@ -26,7 +26,9 @@ There are few of materials to us how to install Dlib on your PC with Qt and Ming
 
 - **decomposition the Dlib file**
 
-   ![1](E:\github\Cypress.github.io\images\1.jpg)
+- ​
+
+  ![1](E:\github\Cypress.github.io\images\1.jpg)
 
 - **using cmake **
 
